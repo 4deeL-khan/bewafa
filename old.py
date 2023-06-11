@@ -506,7 +506,6 @@ if len(sys.argv) == 2:
 		print(" [*] REAL NAME       :   + ♡ 4D33L♡(NAM TU SUNA HOGA")
 		print(" [*] Facebook  : SULMAN KABIR X.X.X(DON'T THINK WRONG ")
 		print(" [*] WhatsApp : +923444819642")
-		print(" [*] NOTICE.  : BEWAFA BOLTI PUBLIC APUN KO 😜
 		exit(" [*] WORK    : CLONER REPORTER ABUSER")
 	else:
 		Main()
